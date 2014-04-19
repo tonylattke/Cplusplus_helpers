@@ -1,0 +1,10 @@
+# C++ Helpers
+
+Here you can find some functions for:
+- Read a file
+- Write a file
+- Read a String
+- Convert char* to values (int, float, double, char and bool)
+- Convert string to values (int, float, double, char and bool) and compare
+- Write Json files with the amazing library Jzon
+- Read and write XML files with the powerful library tinyXML
